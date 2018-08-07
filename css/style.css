@@ -1,0 +1,33 @@
+{
+  margin:0;
+  padding:0;
+}
+h1{
+  color:green;
+}
+
+body{
+  background-color: #f4f4f4; /*f4f4f4 is the hexadecimal color for light green
+  color:#555555
+  font-family: Arial, Helvetica, sans-sans-serif;
+  /*remember to use web-safe fonts http://www.cssfontstack.com */
+
+  font-size: 12px;
+  font-weight: normal;
+  /* font:normal 12px Arial, Helventica, sans-serif, */
+
+  line-height:1.6em;
+
+}
+
+}
+.button{
+  background-color: #333333
+  color: #ffffff
+  padding:10px 15px;
+  border:none;
+}
+.button:hover{
+  background:red;
+  color:white;
+}
